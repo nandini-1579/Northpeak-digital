@@ -121,6 +121,7 @@ h3 { font-size: var(--step-1); font-weight: 600; }
   outline-offset: 3px;
 }
 
+
 /* =========================================================
    Buttons
    ========================================================= */
@@ -504,6 +505,12 @@ h3 { font-size: var(--step-1); font-weight: 600; }
   color: rgba(231,236,240,0.6);
   margin-top: 0.4rem;
   max-width: 40ch;
+}
+.footer-brand .brand-name {
+  color: var(--fog);
+}
+.footer-brand .brand-sub {
+  color: rgba(231, 236, 240, 0.6);
 }
 .footer-links {
   display: flex;
